@@ -1,0 +1,18 @@
+.transactionHistory {
+  background-color: rosybrown;
+  width: 800px;
+  text-align: center;
+  justify-content: center;
+  border-collapse: separate;
+  border-spacing: 4px;
+}
+
+.title {
+  margin-bottom: 30px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
